@@ -1,45 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6366f1&height=180&section=header&text=Anna%20Beatriz&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Estudante%20de%20Programa%C3%A7%C3%A3o&descAlignY=53&descSize=16" width="100%" />
+<img src="./banner.svg" alt="Anna Beatriz - Estudante de Programação" width="100%" />
 
-![](https://img.shields.io/badge/C%23-em%20estudo-6366f1?style=for-the-badge)
-![](https://img.shields.io/badge/Curso%20t%C3%A9cnico-Jogos%20Digitais-6366f1?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-em%20estudo-f472b6?style=for-the-badge&labelColor=1b1030)
+![Unity](https://img.shields.io/badge/Unity-jogo%202D-86efac?style=for-the-badge&labelColor=1b1030)
+![Curso](https://img.shields.io/badge/Curso%20t%C3%A9cnico-Jogos%20Digitais-fbbf24?style=for-the-badge&labelColor=1b1030)
 
 </div>
 
 ---
 
-## Anna Beatriz
+## 🌸 Sobre mim
 
-Estou começando a programar.
+Oi, eu sou a Anna! Estou começando a programar.
 
-Meu primeiro contato com código foi no **curso técnico de Jogos Digitais** da escola, e é de lá que vem tudo o que eu sei até agora: exercícios de lógica e introdução ao **C#**.
+Meu primeiro contato com código foi no **curso técnico de Jogos Digitais** da escola, e é de lá que vem tudo o que eu sei até agora: lógica de programação e introdução ao **C#**.
 
-Este perfil é o registro do começo. Ainda não tem nada pronto para mostrar — tem o que eu estou aprendendo.
+Este perfil é o registro do começo: o que eu estou aprendendo e o meu **primeiro jogo 2D**, que já está tomando forma na Unity.
 
-## O que estou estudando
+## 🎮 Meu primeiro jogo
 
-- **C#** — lógica de programação e os fundamentos da linguagem
-- **Unity**, no curso técnico
-- Exercícios de aula: é onde eu estou praticando agora
+Estou desenvolvendo meu primeiro jogo 2D na **Unity**. Ainda está em andamento, mas já tem coisa funcionando!
 
-## Fora do código
+**Status:** 🌱 em desenvolvimento
 
-<!-- ANNA: escreve aqui duas ou três coisas que você faz quando não está estudando.
-     Não precisa ter relação com tecnologia — é justamente por isso que funciona.
-     Esta é a seção que faz alguém lembrar de você. -->
+<!-- ANNA: aqui é o coração do perfil. Complete com o que for verdade hoje:
+     - Nome do jogo e estilo (plataforma, aventura, puzzle...)
+     - O que já funciona (movimento, pulo, inimigos, fase 1...)
+     - O que vem a seguir
+     Se puder, suba o projeto num repositório, coloque o link aqui e adicione um GIF ou print. -->
 
-## Onde quero chegar
+## 📚 O que estou estudando
 
-<!-- ANNA: o que você quer estar fazendo daqui a um ano, de forma específica.
-     "Quero ser uma boa programadora" é o que todo mundo escreve.
-     "Quero terminar meu primeiro projeto sozinha em C#" é você. -->
+- **C#** — lógica de programação e fundamentos da linguagem
+- **Unity** — no curso técnico
+- **Jogos 2D** — aprendendo na prática, com o meu próprio projeto
+
+## 🎯 Onde quero chegar
+
+Quero terminar meu primeiro jogo 2D na Unity e continuar evoluindo em C#.
+
+<!-- ANNA: troque pelo que for mais a sua cara. Quanto mais específico, melhor:
+     "terminar meu primeiro projeto sozinha" é você; "ser uma boa programadora" é todo mundo. -->
 
 ---
 
 <div align="center">
 
-### Ferramentas
+### 🛠️ Ferramentas
 
 <table align="center">
 <tr>
@@ -49,10 +57,10 @@ Este perfil é o registro do começo. Ainda não tem nada pronto para mostrar �
 </tr>
 </table>
 
-### Contato
+### 💌 Contato
 
-[![Email](https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU@EMAIL.COM)
+[![Email](https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=1b1030)](mailto:SEU@EMAIL.COM)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0a0a0a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,100:86efac&height=100&section=footer" width="100%" />
 
 </div>
